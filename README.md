@@ -1,5 +1,6 @@
 # SelfSignedCertMaker
 This script creates a self-signed certificate with OpenSSL and exports it in PEM format. It checks whether OpenSSL is installed, whether the script is running with administrator privileges, and loads the configuration from an INI file. It creates the certificate, exports it in various formats, and displays the certificate details.
+This script was made using Github-CoPilot to test it's capabilities.
 # Usage
 * Download and extract the files anywhere on your PC.
 * Rename, copy or open example.config.ini
